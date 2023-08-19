@@ -37,6 +37,6 @@ Contribuições são bem-vindas! Se você deseja adicionar melhorias ou corrigir
 
 Este projeto está licenciado sob a [Licença XYZ](link_para_licenca).
 
-Feito com ❤️ e Sass por [Seu Nome](link_para_seu_perfil).
+Feito com ❤️ e Sass por [Kalebzaki4](www.github.com/kalebzaki4).
 
 Lembre-se de substituir os placeholders (como `seu-usuario`, `seu-repositorio-sass`, `link_para_uma_imagem`, etc.) pelos valores reais correspondentes ao seu repositório e perfil. Além disso, certifique-se de adicionar os links corretos para a licença que você está utilizando.
