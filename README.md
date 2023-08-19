@@ -17,8 +17,8 @@
 
 ## 🚀 Como Usar
 
-1. Faça um clone deste repositório: `git clone https://github.com/seu-usuario/seu-repositorio-sass.git`.
-2. Navegue até o diretório do projeto: `cd seu-repositorio-sass`.
+1. Faça um clone deste repositório: `git clone https://github.com/kalebzaki4/sass.git`.
+2. Navegue até o diretório do projeto: `cd sass`.
 3. Personalize os estilos em `src/styles.scss` de acordo com suas necessidades.
 4. Compile o Sass para CSS usando seu compilador Sass preferido.
 5. Conecte seus estilos CSS ao seu projeto web.
@@ -28,7 +28,7 @@
 Contribuições são bem-vindas! Se você deseja adicionar melhorias ou corrigir problemas, siga estas etapas:
 
 1. Faça um fork deste repositório.
-2. Crie um branch para sua feature ou correção: `git checkout -b minha-feature`.
+2. Crie um branch para sua feature ou correção: `git checkout -b sass`.
 3. Faça as alterações desejadas.
 4. Faça commit das suas alterações: `git commit -m 'Adiciona minha feature'`.
 5. Envie para o branch principal: `git push origin minha-feature`.
